@@ -3,7 +3,7 @@ Jaden Ryan
 4/2/2026
 
 Program Description: a way to simulate dice rolls, and generate parantheses when 
-sequential rolls output the same numbers  
+sequential rolls output the same numbers   
 */
 #include<iostream>
 #include <cstdlib>
